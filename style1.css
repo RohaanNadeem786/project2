@@ -5,3 +5,8 @@
     text-shadow: 10px;
     background-color: darkblue;
 }
+.bye {
+    color: red;
+    background-color: darkred;
+    text-shadow: 100px;
+}
